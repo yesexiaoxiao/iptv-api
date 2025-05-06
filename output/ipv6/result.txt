@@ -6,8 +6,8 @@ CCTV-7,http://112.89.121.23:80/PLTV/88888973/224/3221225749/10000100000000060000
 CCTV-9,http://112.89.121.23:80/PLTV/88888973/224/3221225747/10000100000000060000000000334581_0.smil/01.m3u8?fmt=ts2hls,504,01.m3u8,0,7810,0,0&accountinfo=Wti4h1vlszvIgmJ2Rn+JT30YqhIlb959YafU65xwPQuFI6KpBBcFipVQNWSpm9U4cljBwkAKGt2Lq1W8IgjWjgzcX+uhk0/ut3dCvLMCowkpTXVpkkAilPfDJaVJmwBK:20181110091937,END&GuardEncType=2
 CCTV-10,http://112.89.121.23:80/PLTV/88888973/224/3221225745/10000100000000060000000000334569_0.smil/01.m3u8?fmt=ts2hls,504,01.m3u8,0,7809,0,0&accountinfo=Wti4h1vlszvIgmJ2Rn+JT30YqhIlb959YafU65xwPQuFI6KpBBcFipVQNWSpm9U4cljBwkAKGt2Lq1W8IgjWjgzcX+uhk0/ut3dCvLMCownO6/jvFpALITOLK1MIALYD:20181110091937,END&GuardEncType=2
 CCTV-12,http://112.89.121.23:80/PLTV/88888973/224/3221225742/10000100000000060000000000334548_0.smil/01.m3u8?fmt=ts2hls,504,01.m3u8,0,7809,0,0&accountinfo=Wti4h1vlszvIgmJ2Rn+JT30YqhIlb959YafU65xwPQuFI6KpBBcFipVQNWSpm9U4cljBwkAKGt2Lq1W8IgjWjgzcX+uhk0/ut3dCvLMCownxWkAW6Edi7D6VntGIcvvN:20181110091937,END&GuardEncType=2
-CCTV-13,http://jwplay.hebyun.com.cn/live/cctv13/1500k/tzwj_video.m3u8
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
+CCTV-13,http://jwplay.hebyun.com.cn/live/cctv13/1500k/tzwj_video.m3u8
 CCTV-14,http://112.89.121.23:80/PLTV/88888973/224/3221225740/10000100000000060000000000334546_0.smil/01.m3u8?fmt=ts2hls,504,01.m3u8,0,7810,0,0&accountinfo=Wti4h1vlszvIgmJ2Rn+JT30YqhIlb959YafU65xwPQuFI6KpBBcFipVQNWSpm9U4cljBwkAKGt2Lq1W8IgjWjgzcX+uhk0/ut3dCvLMCowlLW+9H8/Cw+LdiLmahQz2w:20181110091937,END&GuardEncType=2
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8#rtsp://103.251.96.71/PLTV/88888888/224/3221225783/10000100000000060000000000726027_0.smil?icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;accountinfo=:20240213104135
 
@@ -67,8 +67,8 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8#rtsp://103.251.96.71/PLTV/88
 天津卫视,http://120.87.4.17:80/PLTV/88888973/224/3221225715/10000100000000060000000000334647_0.smil/01.m3u8?fmt=ts2hls,163,01.m3u8,0,7955,0,0&accountinfo=Wti4h1vlszvIgmJ2Rn+JT30YqhIlb959YafU65xwPQuFI6KpBBcFipVQNWSpm9U4cljBwkAKGt2Lq1W8IgjWjgzcX+uhk0/ut3dCvLMCowkLCM2it2Mbqn+DrKmH1SHV:20181110091937,END&GuardEncType=2
 天津卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003873466.m3u8
 天津卫视,http://yc.myds.me:35455/itv/6000000001000009186.m3u8?cdn=wasusyt
-西藏卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003887434.m3u8
 西藏卫视,http://php.jdshipin.com:8880/xztv.php?id=ws
+西藏卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003887434.m3u8
 新疆卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003887448.m3u8
 云南卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003887453.m3u8
 
@@ -76,13 +76,13 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8#rtsp://103.251.96.71/PLTV/88
 广东珠江,http://112.89.121.24:80/PLTV/88888973/224/3221226219/10000100000000060000000001339127_0.smil/01.m3u8?fmt=ts2hls,504,01.m3u8,0,7809,0,0&accountinfo=Wti4h1vlszvIgmJ2Rn+JT30YqhIlb959YafU65xwPQuFI6KpBBcFipVQNWSpm9U4cljBwkAKGt2Lq1W8IgjWjgzcX+uhk0/ut3dCvLMCowkA8XRtoLtcXa3827qxtKmF:20181110091937,END&GuardEncType=2
 广东珠江,http://120.87.4.6:80/PLTV/88888973/224/3221226220/10000100000000060000000001339130_0.smil/01.m3u8?fmt=ts2hls,83,01.m3u8,0,15614,0,0&accountinfo=Wti4h1vlszvIgmJ2Rn+JT30YqhIlb959YafU65xwPQuFI6KpBBcFipVQNWSpm9U4cljBwkAKGt2Lq1W8IgjWjgzcX+uhk0/ut3dCvLMCowkrk0oGNvEfdCtJuc3+1JIh:20181110091937,END&GuardEncType=2
 广东珠江,http://112.89.121.24:80/PLTV/88888973/224/3221225765/10000100000000060000000000337113_0.smil/01.m3u8?fmt=ts2hls,504,01.m3u8,0,2421,0,0&accountinfo=Wti4h1vlszvIgmJ2Rn+JT30YqhIlb959YafU65xwPQuFI6KpBBcFipVQNWSpm9U4cljBwkAKGt2Lq1W8IgjWjgzcX+uhk0/ut3dCvLMCownOvjkGAuJDEin465PXkAOz:20181110091937,END&GuardEncType=2
-广东珠江,https://tv.cdn.com.mp/live/gdzj/stream.m3u8
-广东珠江,http://cdn2.163189.xyz/live/gdzj/stream.m3u8
 广东珠江,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
+广东珠江,http://cdn2.163189.xyz/live/gdzj/stream.m3u8
+广东珠江,https://tv.cdn.com.mp/live/gdzj/stream.m3u8
 广东体育,http://112.89.121.24:80/PLTV/88888973/224/3221225721/10000100000000060000000000334146_0.smil/01.m3u8?fmt=ts2hls,504,01.m3u8,0,2421,0,0&accountinfo=Wti4h1vlszvIgmJ2Rn+JT30YqhIlb959YafU65xwPQuFI6KpBBcFipVQNWSpm9U4cljBwkAKGt2Lq1W8IgjWjgzcX+uhk0/ut3dCvLMCowlle84poqYwpqTFTEXsmGMO:20181110091937,END&GuardEncType=2
-广东体育,https://tv.cdn.com.mp/live/gdty/stream.m3u8
-广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8
 广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
+广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8
+广东体育,https://tv.cdn.com.mp/live/gdty/stream.m3u8
 广东新闻,http://112.89.121.21:80/PLTV/88888973/224/3221225719/10000100000000060000000000334142_0.smil/01.m3u8?fmt=ts2hls,504,01.m3u8,0,2443,0,0&accountinfo=Wti4h1vlszvIgmJ2Rn+JT30YqhIlb959YafU65xwPQuFI6KpBBcFipVQNWSpm9U4cljBwkAKGt2Lq1W8IgjWjgzcX+uhk0/ut3dCvLMCowk/inuEY/E/H3Sdg8+Iylto:20181110091937,END&GuardEncType=2
 广东卫视,http://112.89.121.21:80/PLTV/88888973/224/3221225766/10000100000000060000000000337111_0.smil/01.m3u8?fmt=ts2hls,504,01.m3u8,0,2420,0,0&accountinfo=Wti4h1vlszvIgmJ2Rn+JT30YqhIlb959YafU65xwPQuFI6KpBBcFipVQNWSpm9U4cljBwkAKGt2Lq1W8IgjWjgzcX+uhk0/ut3dCvLMCowniek5vI5PoY2MhAg+QWDrm:20181110091937,END&GuardEncType=2
 广东卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003873459.m3u8
@@ -94,19 +94,19 @@ Love Nature,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 🌊港·澳·台,#genre#
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 翡翠台,https://cdn3.163189.xyz/live/fct/stream.m3u8
-翡翠台,https://cdn.163189.xyz/live/fct4k/stream.m3u8
+翡翠台,http://v2h.jdshipin.com:80/jade2/jade.stream/chunklist_w100.m3u8
 明珠台,http://php.jdshipin.com:8880/iptv.php?id=mzt
 凤凰中文,https://k44991.kylintv.tv/live/pxna_iphone.m3u8
-凤凰中文,http://cdn.163.dedyn.io/live/fhzw/stream.m3u8
+凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 凤凰中文,http://cdn.163189.xyz/live/fhzw/stream.m3u8
 凤凰资讯,https://cdn3.163189.xyz/live/fhzx/stream.m3u8
-凤凰资讯,https://cdn6.163189.xyz/live/fhzx/stream.m3u8
 凤凰资讯,http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
+凤凰资讯,https://cdn6.163189.xyz/live/fhzx/stream.m3u8
 凤凰香港,http://cdn3.132.us.kg/live/fhhk/stream.m3u8
-凤凰香港,https://cdn6.163189.xyz/live/fhhk/stream.m3u8
 凤凰香港,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
-凤凰卫视,http://cdn.132.us.kg/live/fhzw/stream.m3u8
+凤凰香港,https://cdn6.163189.xyz/live/fhhk/stream.m3u8
 凤凰卫视,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
+凤凰卫视,http://cdn.132.us.kg/live/fhzw/stream.m3u8
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 香港卫视,https://piccpndks.v.kcdnvip.com/audio/xianggangweishi_2.m3u8
 纬来体育,http://yc.myds.me:35455/itv/5000000010000017540.m3u8?cdn=bestzb
@@ -132,9 +132,9 @@ NewTV动作电影,http://yc.myds.me:35455/itv/1000000004000018653.m3u8?cdn=ysten
 🏀体育频道,#genre#
 CCTV-5+,http://112.89.121.23:80/PLTV/88888973/224/3221225705/10000100000000060000000000334542_0.smil/01.m3u8?fmt=ts2hls,504,01.m3u8,0,7819,0,0&accountinfo=Wti4h1vlszvIgmJ2Rn+JT30YqhIlb959YafU65xwPQuFI6KpBBcFipVQNWSpm9U4cljBwkAKGt2Lq1W8IgjWjgzcX+uhk0/ut3dCvLMCown2FDVNG+ZNzdxPe0phXLWm:20181110091937,END&GuardEncType=2
 广东体育,http://112.89.121.24:80/PLTV/88888973/224/3221225721/10000100000000060000000000334146_0.smil/01.m3u8?fmt=ts2hls,504,01.m3u8,0,2421,0,0&accountinfo=Wti4h1vlszvIgmJ2Rn+JT30YqhIlb959YafU65xwPQuFI6KpBBcFipVQNWSpm9U4cljBwkAKGt2Lq1W8IgjWjgzcX+uhk0/ut3dCvLMCowlle84poqYwpqTFTEXsmGMO:20181110091937,END&GuardEncType=2
-广东体育,https://tv.cdn.com.mp/live/gdty/stream.m3u8
-广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8
 广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
+广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8
+广东体育,https://tv.cdn.com.mp/live/gdty/stream.m3u8
 纬来体育,http://yc.myds.me:35455/itv/5000000010000017540.m3u8?cdn=bestzb
 五星体育,http://yc.myds.me:35455/itv/5000000010000017540.m3u8?cdn=bestzb
 超级体育,http://yc.myds.me:35455/itv/1000000001000009601.m3u8?cdn=ystenlive
